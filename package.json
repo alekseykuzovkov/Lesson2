@@ -1,0 +1,14 @@
+{
+  "name": "Lesson2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "dependencies": {
+    "colors": "1.1.2",
+    "minimist": "1.2.0",
+    "underscore": "1.8.3"
+  },
+  "devDependencies": {},
+  "author": "Kuzovkov Aleksey",
+  "license": "ISC"
+}
